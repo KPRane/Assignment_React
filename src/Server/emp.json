@@ -1,0 +1,88 @@
+{
+  "Emp": [
+    {
+      "id": 1,
+      "fname": "Kamesh",
+      "lname": "Rane",
+      "username": "kprane",
+      "email": "rane@gmail.com",
+      "password": "12345",
+      "cpassword": "12345"
+    },
+    {
+      "id": 2,
+      "fname": "Radha",
+      "lname": "Rane",
+      "username": "rprane",
+      "email": "rane123@gmail.com",
+      "password": "12345",
+      "cpassword": "12345"
+    },
+    {
+      "fname": "ramesh",
+      "lname": "Rane",
+      "username": "rrrane",
+      "email": "fsdg@gmail.com",
+      "password": "99887766",
+      "id": 3
+    },
+    {
+      "fname": "Neha",
+      "lname": "dhake",
+      "username": "ndhake",
+      "email": null,
+      "password": null,
+      "id": 4
+    },
+    {
+      "fname": "Rahul",
+      "lname": "dhake",
+      "username": "rdhake",
+      "email": "1234@gmail.com",
+      "password": "99887766",
+      "id": 5
+    },
+    {
+      "fname": "Neha",
+      "lname": "dhake",
+      "username": "ndhake",
+      "email": "12345@gmail.com",
+      "password": "98765432",
+      "id": 6
+    },
+    {
+      "fname": "Neha",
+      "lname": "dhake",
+      "username": "ndhake",
+      "email": "12345@gmail.com",
+      "password": "98765432",
+      "id": 7
+    },
+    {
+      "fname": "Kamesh",
+      "lname": "Rane",
+      "username": "kprane",
+      "email": "1234@gmail.com",
+      "password": "99887766",
+      "id": 8
+    },
+    {
+      "fname": "Parag",
+      "lname": "dhake",
+      "username": "pdhake",
+      "email": "pp1234@gmail.com",
+      "password": "9988776655",
+      "id": 9
+    },
+    {
+      "id": "813a0de0-3628-11ec-8843-6fd2ce627444",
+      "title": "blue",
+      "priority": "5"
+    },
+    {
+      "id": "859c7da0-3628-11ec-8843-6fd2ce627444",
+      "title": "red",
+      "priority": "2"
+    }
+  ]
+}
